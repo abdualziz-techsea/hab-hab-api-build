@@ -9,10 +9,10 @@ C:\Users\Abdulaziz\Desktop\MyProjects\habhab-api\src\main\java\techsea\habhabapi
 C:\Users\Abdulaziz\Desktop\MyProjects\habhab-api\src\main\java\techsea\habhabapi\V1\Config\SecurityConfig.java
 C:\Users\Abdulaziz\Desktop\MyProjects\habhab-api\src\main\java\techsea\habhabapi\V1\Controller\ActivityController.java
 C:\Users\Abdulaziz\Desktop\MyProjects\habhab-api\src\main\java\techsea\habhabapi\V1\Controller\AuthController.java
-C:\Users\Abdulaziz\Desktop\MyProjects\habhab-api\src\main\java\techsea\habhabapi\V1\Controller\TestController.java
 C:\Users\Abdulaziz\Desktop\MyProjects\habhab-api\src\main\java\techsea\habhabapi\V1\Model\Activity.java
 C:\Users\Abdulaziz\Desktop\MyProjects\habhab-api\src\main\java\techsea\habhabapi\V1\Model\AgeGroup.java
 C:\Users\Abdulaziz\Desktop\MyProjects\habhab-api\src\main\java\techsea\habhabapi\V1\Model\AttendType.java
+C:\Users\Abdulaziz\Desktop\MyProjects\habhab-api\src\main\java\techsea\habhabapi\V1\Model\Banner.java
 C:\Users\Abdulaziz\Desktop\MyProjects\habhab-api\src\main\java\techsea\habhabapi\V1\Model\Category.java
 C:\Users\Abdulaziz\Desktop\MyProjects\habhab-api\src\main\java\techsea\habhabapi\V1\Model\City.java
 C:\Users\Abdulaziz\Desktop\MyProjects\habhab-api\src\main\java\techsea\habhabapi\V1\Model\Day.java
@@ -30,6 +30,7 @@ C:\Users\Abdulaziz\Desktop\MyProjects\habhab-api\src\main\java\techsea\habhabapi
 C:\Users\Abdulaziz\Desktop\MyProjects\habhab-api\src\main\java\techsea\habhabapi\V1\Repository\ActivityRepository.java
 C:\Users\Abdulaziz\Desktop\MyProjects\habhab-api\src\main\java\techsea\habhabapi\V1\Repository\AgeGroupRepository.java
 C:\Users\Abdulaziz\Desktop\MyProjects\habhab-api\src\main\java\techsea\habhabapi\V1\Repository\AttendTypeRepository.java
+C:\Users\Abdulaziz\Desktop\MyProjects\habhab-api\src\main\java\techsea\habhabapi\V1\Repository\BannerRepository.java
 C:\Users\Abdulaziz\Desktop\MyProjects\habhab-api\src\main\java\techsea\habhabapi\V1\Repository\CategoryRepository.java
 C:\Users\Abdulaziz\Desktop\MyProjects\habhab-api\src\main\java\techsea\habhabapi\V1\Repository\CityRepository.java
 C:\Users\Abdulaziz\Desktop\MyProjects\habhab-api\src\main\java\techsea\habhabapi\V1\Repository\DayRepository.java

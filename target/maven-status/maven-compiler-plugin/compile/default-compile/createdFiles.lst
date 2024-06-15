@@ -1,4 +1,5 @@
 techsea\habhabapi\V1\Controller\ActivityController.class
+techsea\habhabapi\V1\Model\Banner.class
 techsea\habhabapi\V1\Service\Monday.class
 techsea\habhabapi\V1\Service\ActivityService.class
 techsea\habhabapi\V1\Model\User.class
@@ -13,6 +14,7 @@ techsea\habhabapi\V1\Config\SecurityConfig.class
 techsea\habhabapi\V1\Service\BunnyCDNService.class
 techsea\habhabapi\V1\Repository\TagRepository.class
 techsea\habhabapi\V1\Model\Permission.class
+techsea\habhabapi\V1\Repository\BannerRepository.class
 techsea\habhabapi\V1\Repository\GenderRepository.class
 techsea\habhabapi\V1\Config\ResponseHandler.class
 techsea\habhabapi\V1\Model\Status.class

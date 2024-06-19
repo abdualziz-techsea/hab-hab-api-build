@@ -9,6 +9,7 @@ C:\Users\Abdulaziz\Desktop\MyProjects\habhab-api\src\main\java\techsea\habhabapi
 C:\Users\Abdulaziz\Desktop\MyProjects\habhab-api\src\main\java\techsea\habhabapi\V1\Config\SecurityConfig.java
 C:\Users\Abdulaziz\Desktop\MyProjects\habhab-api\src\main\java\techsea\habhabapi\V1\Controller\ActivityController.java
 C:\Users\Abdulaziz\Desktop\MyProjects\habhab-api\src\main\java\techsea\habhabapi\V1\Controller\AuthController.java
+C:\Users\Abdulaziz\Desktop\MyProjects\habhab-api\src\main\java\techsea\habhabapi\V1\DTO\FilterActivityDTO.java
 C:\Users\Abdulaziz\Desktop\MyProjects\habhab-api\src\main\java\techsea\habhabapi\V1\Model\Activity.java
 C:\Users\Abdulaziz\Desktop\MyProjects\habhab-api\src\main\java\techsea\habhabapi\V1\Model\AgeGroup.java
 C:\Users\Abdulaziz\Desktop\MyProjects\habhab-api\src\main\java\techsea\habhabapi\V1\Model\AttendType.java

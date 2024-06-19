@@ -27,6 +27,7 @@ techsea\habhabapi\HabhabApiApplication.class
 techsea\habhabapi\V1\Service\Dataload.class
 techsea\habhabapi\V1\Config\BunnyCDNConfig.class
 techsea\habhabapi\V1\Model\Day.class
+techsea\habhabapi\V1\DTO\FilterActivityDTO.class
 techsea\habhabapi\V1\Repository\TypeRepository.class
 techsea\habhabapi\V1\Model\Activity.class
 techsea\habhabapi\V1\Model\AgeGroup.class

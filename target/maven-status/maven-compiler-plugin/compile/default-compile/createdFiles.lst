@@ -46,5 +46,6 @@ techsea\habhabapi\V1\Repository\AgeGroupRepository.class
 techsea\habhabapi\V1\Repository\ActivityRepository.class
 techsea\habhabapi\V1\Model\Type.class
 techsea\habhabapi\V1\Model\Role.class
+techsea\habhabapi\V1\Controller\TestController.class
 techsea\habhabapi\V1\Model\Gender.class
 techsea\habhabapi\V1\Model\Language.class

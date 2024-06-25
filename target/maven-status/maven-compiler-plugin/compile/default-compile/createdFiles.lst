@@ -9,7 +9,6 @@ techsea\habhabapi\V1\Model\City.class
 techsea\habhabapi\V1\Service\AuthService.class
 techsea\habhabapi\V1\Repository\AttendTypeRepository.class
 techsea\habhabapi\V1\Repository\CityRepository.class
-techsea\habhabapi\V1\Config\ApiKeyAuthenticationFilter.class
 techsea\habhabapi\V1\Config\SecurityConfig.class
 techsea\habhabapi\V1\Service\BunnyCDNService.class
 techsea\habhabapi\V1\Repository\TagRepository.class
@@ -45,6 +44,8 @@ techsea\habhabapi\V1\Model\SystemSettings.class
 techsea\habhabapi\V1\Repository\AgeGroupRepository.class
 techsea\habhabapi\V1\Repository\ActivityRepository.class
 techsea\habhabapi\V1\Model\Type.class
+techsea\habhabapi\V1\Config\RabbitMQConfig.class
+techsea\habhabapi\V1\Config\RabbitMQListener.class
 techsea\habhabapi\V1\Model\Role.class
 techsea\habhabapi\V1\Controller\TestController.class
 techsea\habhabapi\V1\Model\Gender.class

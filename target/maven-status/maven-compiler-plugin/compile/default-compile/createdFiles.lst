@@ -22,6 +22,7 @@ techsea\habhabapi\V1\Repository\UserRepository.class
 techsea\habhabapi\V1\Model\RecordType.class
 techsea\habhabapi\V1\Model\AttendType.class
 techsea\habhabapi\V1\Repository\DistrictRepository.class
+techsea\habhabapi\V1\Controller\ShareController.class
 techsea\habhabapi\HabhabApiApplication.class
 techsea\habhabapi\V1\Service\Dataload.class
 techsea\habhabapi\V1\Config\BunnyCDNConfig.class

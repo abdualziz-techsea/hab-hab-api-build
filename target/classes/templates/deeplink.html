@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Deep Link Redirection</title>
+    <script th:inline="javascript">
+        // Detect platform
+        const isAndroid = navigator.userAgent.toLowerCase().indexOf("android") > -1;
+        const deepLinkUrl = /*[[${deepLinkUrl}]]*/ ''; // Thymeleaf variable
+
+        // Redirect based on platform
+        if (isAndroid) {
+            window.location.href = "https://play.google.com/store/apps/details?id=your.app.package.name";
+        } else {
+            window.location.href = "https://apps.apple.com/app/idYOUR_APP_ID"; // Replace with your App Store ID
+        }
+    </script>
+</head>
+<body></body>
+</html>

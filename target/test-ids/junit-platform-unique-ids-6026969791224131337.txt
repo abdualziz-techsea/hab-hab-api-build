@@ -1,0 +1,1 @@
+[engine:junit-jupiter]/[class:techsea.habhabapi.HabhabApiApplicationTests]/[method:contextLoads()]

@@ -20,6 +20,7 @@ services:
       - postgres
     networks:
       - iewa_network
+    container_name: hab-hab-api
 
   postgres:
     image: 'postgres:latest'
